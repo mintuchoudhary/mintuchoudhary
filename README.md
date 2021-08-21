@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning [AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/), [Apache Kafka](https://github.com/apache/kafka)
 - 👯 I’m looking to collaborate on **Big Data** projects
 - 💬 Ask me for any support/help needed across any **Big Data**, **Spark** application
-- ## How to reach me 📫: 
+## 📫 How to reach me  
 [![Linkedin Badge](https://img.shields.io/badge/-mintuchoudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mintuchoudhary)](https://www.linkedin.com/in/mintuchoudhary) [![Gmail Badge](https://img.shields.io/badge/-mintuchoudhary01@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:mintuchoudhary01@gmail.com) 
 
 
